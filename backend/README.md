@@ -468,16 +468,3 @@ Access to fetch has been blocked by CORS policy
 
 Untuk dokumentasi API yang lebih detail, lihat file `AUTH_API.md` yang sudah tersedia di repository.
 
-## 👨‍💻 Developer
-
-Dikembangkan untuk sistem manajemen stok toko dengan fokus pada kemudahan integrasi dan keamanan.
-
-## 📄 License
-
-Silakan sesuaikan dengan lisensi project Anda.
-
----
-
-**Butuh bantuan?** Silakan buka issue di repository atau hubungi tim developer.
-
-Happy Coding! 🚀
